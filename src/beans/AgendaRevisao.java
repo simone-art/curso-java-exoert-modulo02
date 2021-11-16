@@ -1,5 +1,7 @@
 package beans;
 
+import java.util.Date;
+
 public class AgendaRevisao {
 	
 	//public são modificadores de acesso
